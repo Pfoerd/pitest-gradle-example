@@ -1,7 +1,7 @@
 #Licence file for pitest extensions
-#Thu Oct 19 18:04:59 BST 2023
-expires=19/04/2025
+#Thu May 16 08:14:28 BST 2024
+expires=16/05/2025
 keyVersion=1
-signature=fXP/V4wLrmAu9Q79+hd4tCfP6b25Qz8niqwMfw4PiBlYa1QPIfCmP5+hwJaT0WBircKKC2PN0W+EA1fXYWiCZkQlxN8aYwYXqDsnWPx4TOdhOlT9g9mN2CnbWL7EO+VKE4wxa2Qj0oXneFeu75nT+CSh1MCzfuDWntnzS/DKOZ0\=
 packages=de.pfoerd.example.*
-type=EVALUATION
+signature=Djag2OzGt5qV2H/mnpcAYx1FpGHVlybGV4NYKhZ2qsJ8hmSr9Q5jKb4GIpppd9tR37sPKOV5bXk9MR6TLUl3Kym6e8MzRBEBUmBtWIwY7PrA3kvwOAcYN0k/gaiagm9R67dqfP0wrWpMXx3GdYDm5TbzlTu+DOMKxqzq4n6ZtBg\=
+type=OSSS
