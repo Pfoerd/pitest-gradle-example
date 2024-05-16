@@ -13,7 +13,7 @@ class CoffeeService {
   }
 
   RecipeTO getRecipe(String drinkType) {
-    if ("coffee".equals(drinkType)) {
+    if ("Coffee".equals(drinkType)) {
       return DEFAULT_RECIPE;
     }
 
