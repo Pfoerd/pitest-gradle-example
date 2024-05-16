@@ -2,6 +2,7 @@ plugins {
     id("java")
     id("info.solidsoft.pitest") version "1.9.11"
     id ("com.groupcdg.pitest.github") version "1.0.5"
+    jacoco
 }
 
 repositories {
@@ -45,4 +46,8 @@ pitest {
 
 pitestGithub {
     deleteOldSummaries.set(true)
+}
+
+tasks.jacocoTestReport {
+    dependsOn(tasks.test) // tests are required to run before generating the report
 }
